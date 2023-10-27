@@ -3,7 +3,7 @@ title: "Victoria Johnson"
 about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
-  template: jolla
+  template: solana
   image: img/Headshot_Vj_2022.jpg
   links:
     # Available icons: https://icons.getbootstrap.com/
@@ -24,4 +24,3 @@ about:
 
 Victoria is interested in investigating effective methods of science communication in order to promote knowledge revision of scientific misconceptions and reduce misinformation.
 
-[Reading + Learning Lab](https://edpsych.umn.edu/research/labs/reading-learning)
