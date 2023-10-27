@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Victoria Johnson's Personal Website"
+  title: "Victoria Johnson"
   navbar:
     left:
       - href: index.qmd

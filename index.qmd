@@ -22,5 +22,5 @@ about:
       href: https://orcid.org/my-orcid?orcid=0000-0002-2730-2573
 ---
 
-Victoria is interested in investigating effective methods of science communication in order to promote knowledge revision of scientific misconceptions and reduce misinformation.
+I'm a graduate student at the University of Minnesota working with Panayiota Kendeou in the Reading + Learning Lab. I study effective methods of science communication in order to promote knowledge revision of scientific misconceptions and reduce misinformation.
 
