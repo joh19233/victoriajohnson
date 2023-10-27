@@ -4,19 +4,24 @@ about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
   template: jolla
-  image: img/iggy.jpg
+  image: img/Headshot_Vj_2022.jpg
   links:
     # Available icons: https://icons.getbootstrap.com/
     - icon: twitter
       text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
+      href: https://twitter.com/V_K_Johnson
+    - icon: cloud-sun-fill
+      text: Bluesky
+      href: https://bsky.app/profile/vkjohnson.bsky.social
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/victoria-johnson-a887b912b/
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?authuser=2&user=LLK0vRsAAAAJ
+    - text: "{{< ai orcid >}} Orcid"
+      href: https://orcid.org/my-orcid?orcid=0000-0002-2730-2573
 ---
 
-Iggy is the Chief Beggar at Three Bark Manor. When not innovating naptime, Iggy enjoys dinner.
+Victoria is interested in investigating effective methods of science communication in order to promote knowledge revision of scientific misconceptions and reduce misinformation.
 
+[Reading + Learning Lab](https://edpsych.umn.edu/research/labs/reading-learning)
